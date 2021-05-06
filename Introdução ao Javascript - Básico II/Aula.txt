@@ -1,0 +1,16 @@
+*Parâmetros são informações que as funções precisam.*
+
+*Argumentos ou Args permitem acessar parâmetros de uma função.*
+
+*Função "eval" é uma função nativa.*
+
+*Arrow Function é um novo recurso para funções.*
+
+*Callback = Função de retorno como parâmetros após uma ação.*
+
+*DOM - Document Object Model (Estrutura como o HTML é formado)*
+
+*Eventos - Ações realizadas na aplicação que dispara rotinas.*
+
+*Window - Manipulando a aplicação.*
+
